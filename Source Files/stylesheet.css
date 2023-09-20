@@ -1,0 +1,140 @@
+html{
+ background-image: url("https://media.istockphoto.com/id/1222233279/photo/wave-formation-of-the-adriatic-sea.jpg?s=1024x1024&w=is&k=20&c=gtc7CmFfw2Tsl5ywqK3_Uka6YBjSWjn-u2rwfqwMVLQ=");
+
+}
+
+p { 
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+li{
+
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+h1{
+    background-color: white;
+    font-family: 'Kenia', cursive;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2{
+   background-color: aqua;
+   border: 3px solid black;
+   border-radius: 5px ;
+   padding-left: 45px;
+   padding-right: 45px;
+   font-family: 'Kenia', cursive;
+   text-align: center;
+
+
+}
+.Introsection{
+   border: 6px solid black; 
+   border-radius: 10px;
+}
+
+
+.Intro{
+border : 8px solid white;
+border-radius: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 350px;
+padding-right: 350px;
+background-color: aqua;
+opacity: 90%;
+
+}
+
+.Table-data{
+   padding-left: 20px;
+
+}
+
+.Education-section{
+    border: 5px solid black;
+    border-radius: 10px;
+
+}
+.Education{
+    background-color: white;
+    border : 8px solid aqua;
+    border-radius: 10px;
+    padding-left: 450px;
+    padding-right: 450px;
+    opacity: 80%;
+
+
+}
+.ed-border{
+    border:3px solid black;
+    border-radius:10px;
+
+}
+
+.WorkExperienceSection{
+   border: 5px solid black;
+   border-radius: 10px;
+
+}
+.Table{
+  border: 3px solid black ;
+  border-radius: 10px;
+  width: 500px;
+  padding-right:30px ;
+  padding-left:30px ;
+
+}
+
+.WorkExperience{
+    background-color: white;
+    border : 8px solid aqua;
+    border-radius: 10px;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 25px;
+    opacity: 80%;
+}
+.Skillssection{
+    border: 7px solid black;
+    border-radius:10px;
+ 
+ }
+.Skills{
+    background-color: white;
+    border : 8px solid aqua;
+    border-radius: 10px;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 20px;
+    opacity: 80%;
+    
+
+}
+
+.footer{ 
+    border: 3px solid white;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align:center;
+    background-color: black;
+    height: 50px;
+
+}
+
+.Projects {
+    background-color: white;
+    border : 8px solid aqua;
+    border-radius: 10px;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 25px;
+    opacity: 80%;
+
+}
+
